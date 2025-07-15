@@ -4,7 +4,7 @@ DevConnect is a full-stack web application designed for developers to showcase t
 
 ## 🌐 Live Demo
 
-[🔗 Click here to view the live demo](https://your-deployment-link.com)
+[🔗 Click here to view the live demo](https://papaya-duckanoo-8a9745.netlify.app/)
 
 ## 🖥️ Tech Stack
 
@@ -47,9 +47,3 @@ DevConnect is a full-stack web application designed for developers to showcase t
 - MongoDB (local or cloud)
 - Git
 
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/devconnect.git
-cd devconnect
